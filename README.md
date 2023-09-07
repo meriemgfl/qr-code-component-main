@@ -23,7 +23,7 @@ This is my take on the QR Code challenge on Frontend Mentor using HTML and CSS. 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR code component](https://meriemgfl.github.io/qr-code-component-main/)
 
 ## My process
 
