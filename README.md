@@ -14,11 +14,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This is my take on the QR Code challenge on Frontend Mentor using HTML and CSS. I focused my attention on the details in the design pictues and used flexbox extensively for responsiveness, developed with both a mobile and a desktop views.
+This is my take on the QR Code challenge on Frontend Mentor using HTML and CSS. I focused my attention on the details in the design pictures and used Flexbox extensively for responsiveness, developed with both mobile and desktop views.
 
 ### Screenshot
 
-![QR Code Component screenshot](./images\qr-code-component-screenshot.png)
+![QR Code Component screenshot](./images/qr-code-component-screenshot.png)
 
 
 ### Links
